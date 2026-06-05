@@ -1,6 +1,6 @@
 # DealFlow CRM
 
-**DealFlow** is a complete, production-ready, minimal CRM featuring a visual Kanban pipeline board, robust contact management, and AI-driven inline sales suggestions powered by Google Gemini.
+**DealFlow** is a complete, minimal CRM featuring a visual Kanban pipeline board, robust contact management, and AI-driven inline sales suggestions powered by Google Gemini.
 
 Designed with a premium glassmorphic dark theme and built on top of React (Vite), Tailwind CSS, Supabase, and the official Google Gen AI SDK.
 
